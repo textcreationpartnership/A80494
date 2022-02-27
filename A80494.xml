@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A coppie of a letter, to be sent to Lieutenant Generall Crumvvel from the well-affected partie in the city.</title>
+            <author>Worth-Rush, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80494</idno>
+            <idno type="STC">Wing C6162</idno>
+            <idno type="STC">Thomason E397_19</idno>
+            <idno type="STC">ESTC R201675</idno>
+            <idno type="EEBO-CITATION">99862175</idno>
+            <idno type="PROQUEST">99862175</idno>
+            <idno type="VID">114326</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80494)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114326)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E397[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A coppie of a letter, to be sent to Lieutenant Generall Crumvvel from the well-affected partie in the city.</title>
+                  <author>Worth-Rush, John.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire, signed pseudonymously at end: John Worth-Rush. Secr.</note>
+                  <note>Annotation on Thomason copy: "July 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114326:1"/>
+            <pb facs="tcp:114326:1" rendition="simple:additions"/>
+            <p>A COPPIE OF A LETTER, To be ſent to Lieutenant Generall CRUMVVEL From the Well-affected Partie in the CITY.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add>July 10<hi rend="sup">th.</hi>
+               </add>
+            </p>
+            <p>Printed in the Yeare 1647.</p>
+            <pb facs="tcp:114326:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:114326:2"/>
+            <head>A Copy of a Letter to bee ſent to Leiutenant Generall <hi>Crummell,</hi> from the well-affected Party in the City.</head>
+            <p>
+               <seg rend="decorInit">H</seg>E that is ignorant of <hi>Crumwels</hi> Valour and <note place="margin">The Salu<g ref="char:EOLhyphen"/>tation.</note> Vertue, let him bee ignorant. He is the Great Councells Eye, the great Generals Hand, <hi>Englands, Irelands,</hi> nay and <hi>Scotlands</hi> Wonder. Open thy Gates, O <hi>London,</hi> and let <hi>Crumwel</hi> enter, whoſe Gallant ſpirit is able to fill thy ſpacious Roomes, and whoſe unerring Genius will lead thee to that Religion and Liberty which neither <hi>Beſſe,</hi> nor <hi>Iames, Charles,</hi> nor his Parliament had ever ſo much Happineſſe as to dreame of.</p>
+            <p>Hee that is not ſufficiently Organized to ſee thy worth, 'tis not becauſe thou wanteſt Splendour and Brightneſſe; but becauſe he wanteth his Eyes. Hee that is obſtinate, and ſhuts the windowes of his face on purpoſe, let him neither enjoy the light of the Sun, or which is worſe, not the light of thy Countenance. Obleſſed <hi>Crumwell,</hi> thou art not onely the finiſher of the old Warre; but the Wiſe, the Valiant Reſto<g ref="char:EOLhyphen"/>rer of a <hi>new one.</hi>
+            </p>
+            <p>A <hi>new one,</hi> we ſay: not only in reſpect of the Cauſe which is changed from Popery to Presbyrerie; But in reſpect of the Title from <hi>Truth</hi> and <hi>Peace</hi> to <hi>Truth</hi> and <hi>Righteouſneſse.</hi>
+            </p>
+            <p>Formerly we fought for <hi>Peace</hi> and <hi>Truth:</hi> But Peace is an old over-worne Malignant Title; and therefore now, as heretofore, waving <hi>Peace,</hi> wee march on va<g ref="char:EOLhyphen"/>liantly for <hi>Righteouſneſſe ſake.</hi> And truely Sir, whoſo<g ref="char:EOLhyphen"/>ever
+<pb n="4" facs="tcp:114326:3"/> be our Generall, we unanimouſly reſolve that you ſhall be our <hi>Ring-leader.</hi>
+            </p>
+            <p>Our name ſhall be the <hi>New Army;</hi> the word <hi>Modell</hi> is too peaceable a Title: and becauſe we have new lights by your <hi>Permiſsion,</hi> and new cauſes by your <hi>In<g ref="char:EOLhyphen"/>vention,</hi> and a <hi>new warre</hi> in hand by your <hi>Inſtigation,</hi> we will therefore call you not in diſgrace (as was <hi>Cicero)</hi> but in honour by Antiphraſis our <hi>Novus Homo,</hi> our <hi>New-man.</hi>
+            </p>
+            <p>We are not ignorant that all your Papers to the Parliament, your humble or high Remonſtrance, your particular Charge againſt the Publick Members have the name of <hi>Fairefax</hi> before them; it is good policy, to make one man beat the Buſh, whilſt you catch the Bird; and we wiſh from our heart, that name may be ominous, that you may <hi>fare</hi> &amp; <hi>fac, ſay</hi> and <hi>doe.</hi>
+            </p>
+            <p>But Sir, to our ſingular comfort, we by experience dare aver, that you are the <hi>principall wheele,</hi> the <hi>Primum mobile,</hi> that moves and ſublimates both him and others to this <hi>New,</hi> this <hi>Brave,</hi> this <hi>Holy war.</hi> Sir <hi>Thomas</hi> is the <hi>Eſau,</hi> whoſe rough hands the Parliament feele with great regreat: But you are the <hi>Iacob,</hi> the ſupplan<g ref="char:EOLhyphen"/>ter, that carries the Cauſe ſmoothly, and like the deep River, though you have moſt force, yet are you moſt ſilent.</p>
+            <p>Pardon us deare Sir, our affection to you hath ſo farre raviſhed us, as we forget the Cauſe for which we write, which ſhall be concluded in two particulars:
+<list>
+                  <item>1. In giving of Thanks.</item>
+                  <item>2. In giving, and deſiring advice.</item>
+               </list>
+            </p>
+            <p>Now that which is the grand occaſion and Argu<g ref="char:EOLhyphen"/>ment of our Thanks, is that long looked for Charge againſt the eleven Members, who have been as Motes
+<pb n="5" facs="tcp:114326:3"/> in our eyes, as thornes in our ſides, and have much in<g ref="char:EOLhyphen"/>fringed the liberty of the Saints.</p>
+            <p>We have obſerved of theſe 11. Members in generall before the particular Charge came in, that they had been very <hi>active</hi> to <hi>advance Presbyteriall Government,</hi> and therefore long ago worthy to be caſt out of the Houſe, and expoſed to our ſcorne and infamy; But we are ſorry the iniquity of the times is ſuch, that you muſt be put to ſo much pains, as to beate your braines for Articles, and that a bare Accuſation <hi>qua Presbyter.</hi> will not ſerve the <hi>turn;</hi> you have indeed attainted them boldly (as <hi>Machiavell</hi> inſtructs) and we are aſſured ſomething will ſticke by them; But (O) that inſtead of eleven you had made them a Dozen, that is a Round Number; but in this caſe the Bakers Dozen which is uneven we hold the better.</p>
+            <p>Truly Sir as we ſaid before, we hope your deſigne is againſt Presbytery not Injuſtice, againſt corruption in Diſcipline, not againſt corruption in Offices, for were it ſo; you would ſtrike a terrour into your owne Party: now to Charge an Independent with a Presby<g ref="char:EOLhyphen"/>terian that be far from you.</p>
+            <p>Alas Sir, you know we have had the Magazine both of Armes and Treaſure, all the Committees and Se<g ref="char:EOLhyphen"/>queſtrators at our beck, we have placed and diſplaced, turned the Kingdome of <hi>England</hi> and <hi>Ireland</hi> topfie turvy, we have plaid <hi>Rex</hi> indeed. We diſplaced <hi>Waller, Maſsie, Luke, Mitten,</hi> &amp; divers others, &amp; yet continued in <hi>C. B.</hi> who is B. of <hi>C. M. N. F.</hi> as our owne crea<g ref="char:EOLhyphen"/>tures by that Almighty power which was veſted in us, and if juſtice ſhould now be done theſe were undone, for they behaved themſelves ſo as ſome called them not Parliament drivers (as Mr. <hi>L.</hi> is in your Declara<g ref="char:EOLhyphen"/>tion)
+<pb n="6" facs="tcp:114326:4"/> but War drivers, or War contrivers, of which Craft and Trade we hope one day you will be made free.</p>
+            <p>And now Sir, having done with the firſt Part we come to the firſt Branch of the ſecond Part, which is giving advice.</p>
+            <p>And to ſpeake freely, as we alwaies do in either our publique or private addreſſes, we could heartily have wiſhed that you had abſtained a while from Particu<g ref="char:EOLhyphen"/>larizing of 4. Perſons, not that either their lives or reputation is deare to us, but becauſe they ſeeme either popular, or elſe innocent men; your Inke in your Declaration is too little to make them blacke enough, is there not two falſe witneſſes in a whole Army? they ſay,
+<q xml:lang="lat">
+                  <l>—Nulla fides pietaſque viris qui caſtra ſequuntur</l>
+                  <l>venaleſque manus—</l>
+               </q> or do we lack a <hi>Iezabel</hi> inſtead of a <hi>Crumwell</hi> to mould the deſign; You know <hi>Maſsie</hi> is generally loved becauſe of his Gallantry; <hi>Glyn</hi> is a <hi>noli me Tangere,</hi> becauſe of the City; and as for <hi>Harley</hi> and <hi>Long,</hi> I doubt you may ſtay long enough before you have accuſation or proofe ſufficient; for may not any man go to the Lady <hi>Corliles</hi> Lodging, is ſhe or her houſe a Malignant, or may it not be lawfull for people to aſſemble, or when two or three Parliament men walke or talke together, is this a deſigne? beware you ſpeake not a word, in any caſe which may bring up a ſcandall upon our conventicles.</p>
+            <p>Beſides, what is Mr <hi>L?</hi> why, you tell us he is a Par<g ref="char:EOLhyphen"/>liament Driver (Peace man, the world is not our own yet) muſt he therefore by an expreſſe be driven out of Parliament becauſe he is a Parliament Driver?</p>
+            <pb n="7" facs="tcp:114326:4"/>
+            <p> The Gallantry of <hi>Maſsie</hi> is knowne, becauſe he did once ſave the Kingdome in ſaving of <hi>Glenceſter;</hi> and though we conceive he did not fight for the righteouſ<g ref="char:EOLhyphen"/>neſſe of Chriſt, yet he hated the unrighteous Mam<g ref="char:EOLhyphen"/>mon. <hi>Horatius Cocles</hi> having defended th' <hi>Romans</hi> againſt the three <hi>Curiatij</hi> alone, though afterwards he killed his Siſter, yet was he pardoned by the State for that Noble ſervice which he accompliſhed for the States; and this Story will be laid in our Teeth.</p>
+            <p>You have almoſt ſubdued him in ſubduing his Ar<g ref="char:EOLhyphen"/>my, and his free Spirit hath made him not worth the fleecing, and therefore it were not amiſſe we conceive to reprieve him, and picke and chooſe another Mem<g ref="char:EOLhyphen"/>ber where you pleaſe.</p>
+            <p>
+               <hi>Glyn</hi> is the mouth of the City, and ſhould we think to ſtop the Cities mouth, (who know us well enough ſince we ſearcht the Lord Maiors Pockets to find the King) he would make ſuch a Cry as all the Kingdome would heare, and then <hi>Scotland</hi> will heare too.</p>
+            <p>As for his Wife if ſhe be unſound, we deſire ſhe may be ſearched by a Jury of Women.</p>
+            <p>
+               <hi>Harley</hi> is an innocent Puny, a little Bit, and not ſuf<g ref="char:EOLhyphen"/>ficient to ſtay our ſtomacks: We have not time to dally, and with <hi>Commodus</hi> to kill flies: Beſides, we con<g ref="char:EOLhyphen"/>ceive he goes but according to the Liberty of his con<g ref="char:EOLhyphen"/>ſcience, which to maintaine we now take up Armes: <hi>Non gaudet tenui ſanguine tanta ſitis: Long,</hi> as your Pa<g ref="char:EOLhyphen"/>pers ſhew us, is but a Coward, and that is pardona<g ref="char:EOLhyphen"/>ble; every man is not a <hi>Cromwell,</hi> or an <hi>Ironſide;</hi> marry if Cowards muſt be complained of <hi>quà</hi> Cowards, what ſhall become of our Saw-pit Lord, or poore <hi>Nat. Fines?</hi>
+            </p>
+            <p>Now we are come to the laſt Branch, which ſhall not
+<pb n="8" facs="tcp:114326:5"/> we hope be troubleſome to your patience, and that is to crave advice to eight Queres.
+<list>
+                  <item>1. <hi>Whether it be not unſeaſonable to queſtion men for malignancy while we are a cloſing with them, as Iudge</hi> Jenkins <hi>well obſerves?</hi>
+                  </item>
+                  <item>2. <hi>Whether the Accuſation of Eleven Members be ſuf<g ref="char:EOLhyphen"/>ficient to daunt the whole Body?</hi>
+                  </item>
+                  <item>3. <hi>If love and honour be to be ſhewen to the King, ac<g ref="char:EOLhyphen"/>quaint us with meaſure and time, that is, how much and how long?</hi>
+                  </item>
+                  <item>4. <hi>What is further to be acted for the bringing up of our Army into the City?</hi>
+                  </item>
+                  <item>5. <hi>How ſhall we anſwer the Objection, that we ſtand up<g ref="char:EOLhyphen"/>on Puntilies of Honour, whileſt in the meane ſpace</hi> Ireland <hi>lies gaſping?</hi>
+                  </item>
+                  <item>6. <hi>How ſhall we reſolve that Objection, that the Army ſtrives to be under pay, and yet ſtrives againſt obedience?</hi>
+                  </item>
+                  <item>7. <hi>Is there not need of an</hi> Index expurgatorius, <hi>to blot out all the reverent Titles, all the obedient paſſages, concerning the Parliament out of our Independent Books?</hi>
+                  </item>
+                  <item>8. <hi>Whether the Aſsembly of Divines ſhall not be attain<g ref="char:EOLhyphen"/>ted of High Treaſon for labouring to introduce a forreigne Power of Government, contrary to the Liberty of free Reli<g ref="char:EOLhyphen"/>gion in this Kingdome?</hi>
+                  </item>
+               </list>
+            </p>
+            <closer>
+               <signed>By the appointment of the new Fraternity. Signed <hi>Iohn Worth-Ruſh.</hi> Secr.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
